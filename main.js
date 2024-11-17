@@ -1,1 +1,1 @@
-import './style.css'
+import './estilos-1.css'
