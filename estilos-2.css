@@ -43,8 +43,8 @@ div{
 }
 
 img {
+    width: 400px;
     float: right;
-    width: 50%;
     background-color: rgb(0, 0, 0, 0);
 }
 
